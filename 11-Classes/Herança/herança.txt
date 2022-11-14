@@ -1,0 +1,6 @@
+Nem sempre você precisará começar do zero para escrever uma classe. Se a
+classe que você estiver escrevendo for uma versão especializada de outra
+classe já criada, a herança poderá ser usada. Quando uma classe herda de
+outra, ela assumirá automaticamente todos os atributos e métodos da
+primeira classe. A classe original se chama classe-pai e a nova classe é a
+classe-filha. A classe-filha herda todos os atributos e método de sua classe-pai, mas também é livre para definir novos atributos e métodos próprios.

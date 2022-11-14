@@ -1,0 +1,6 @@
+À medida que acrescentar mais funcionalidades às classes, seus arquivos
+ficarão maiores, mesmo quando usar herança de forma apropriada. Para
+estar de acordo com a filosofia geral de Python, quanto menos entulhados
+estiverem seus arquivos, melhor será. Para ajudar, Python permite
+armazenar classes em módulos e então importar as classes necessárias em
+seu programa principal.
