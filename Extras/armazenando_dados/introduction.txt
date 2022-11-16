@@ -1,0 +1,25 @@
+Muitos de seus programas pedirão aos usuários que forneçam
+determinados tipos de informação. Você pode permitir que os usuários
+armazenem suas preferências em um jogo ou forneçam dados para uma
+visualização. Qualquer que seja o foco de seu programa, você armazenará
+as informações fornecidas pelos usuários em estruturas de dados como
+listas e dicionários. Quando os usuários fecham um programa, quase
+sempre você vai querer salvar as informações que eles forneceram. Uma
+maneira simples de fazer isso envolve armazenar seus dados usando o
+módulo json.
+O módulo json permite descarregar estruturas de dados Python simples
+em um arquivo e carregar os dados desse arquivo na próxima vez que o
+programa executar. Também podemos usar json para compartilhar dados
+entre diferentes programas Python. Melhor ainda, o formato de dados
+JSON não é específico de Python, portanto podemos compartilhar dados
+armazenados em formato JSON com pessoas que trabalhem com várias
+outras linguagens de programação. É um formato útil e portável, além de
+ser fácil de aprender.
+
+programas usando json.dump e json.load:
+Vamos escrever um pequeno programa que armazene um conjunto de
+números e outro que leia esses números de volta para a memória. O
+primeiro programa usará json.dump() para armazenar o conjunto de
+números, e o segundo programa usará json.load().
+A função json.dump() aceita dois argumentos: um dado para armazenar e
+um objeto arquivo que pode ser usado para armazenar o dado.
