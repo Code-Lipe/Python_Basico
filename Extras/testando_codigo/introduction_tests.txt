@@ -1,0 +1,14 @@
+Quando escrevemos uma função ou uma classe, podemos
+também escrever testes para esse código. Os testes
+provam que seu código funciona como deveria em
+resposta a todos os tipos de entrada para os quais ele foi
+projetado para receber. Ao escrever testes, você poderá
+estar confiante de que seu código funcionará
+corretamente quando mais pessoas começarem a usar
+seus programas. Você também poderá testar novos
+códigos à medida que adicioná-los para garantir que suas
+alterações não afetem o comportamento já existente em
+seu programa. Todo programador comete erros, portanto
+todo programador deve testar seus códigos com
+frequência, identificando os problemas antes que os
+usuários os encontrem.
