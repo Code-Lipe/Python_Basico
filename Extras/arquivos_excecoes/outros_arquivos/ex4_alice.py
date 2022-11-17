@@ -7,7 +7,7 @@
 # mas não salvei o arquivo no mesmo diretório em que está ex4_alice.py
 
 # Movi o arquivo alice.txt para o diretório correto, portanto o bloco try funcionará
-file_name = 'Extras/arquivos_execoes/arquivos_texto/alice.txt'
+file_name = 'Extras/arquivos_excecoes/arquivos_texto/alice.txt'
 
 try:
     

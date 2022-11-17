@@ -4,7 +4,7 @@
 # file_object recebe o objeto que representa pi_digits.txt
 # read() lê todo o conteúdo do arquivo e armazenamos em contents
 
-file_directory = 'Extras/arquivos_execoes/arquivos_texto/pi_digits.txt'
+file_directory = 'Extras/arquivos_excecoes/arquivos_texto/pi_digits.txt'
 
 print("=== Example: 1 ===")
 with open(file_directory) as file_object:

@@ -6,7 +6,7 @@
 # então comente os exemplos que deseja evitar no momento,
 # e execute esse programa para ver o resultado do exemplo desejado em programming.txt
 
-file_name = 'Extras/arquivos_execoes/arquivos_texto/programming.txt'
+file_name = 'Extras/arquivos_excecoes/arquivos_texto/programming.txt'
 
 # === Example: 1 ===
 # Podemos abrir um arquivo em modo de:

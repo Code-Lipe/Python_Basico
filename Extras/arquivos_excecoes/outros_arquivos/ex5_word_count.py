@@ -25,9 +25,9 @@ def count_words(filename):
         print(f"The file {filename}: \nhas about {num_words} words.")
 
 
-file_alice = 'Extras/arquivos_execoes/arquivos_texto/alice.txt'
+file_alice = 'Extras/arquivos_excecoes/arquivos_texto/alice.txt'
 file_programming_error = 'programming.txt'
-file_programming = 'Extras/arquivos_execoes/arquivos_texto/programming.txt'
+file_programming = 'Extras/arquivos_excecoes/arquivos_texto/programming.txt'
 
 file_names = [file_alice, file_programming_error, file_programming]
 for file_name in file_names:
